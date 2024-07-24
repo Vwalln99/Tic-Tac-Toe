@@ -18,3 +18,4 @@ drei ihrer Spielsteine in einer Reihe, Spalte oder Diagonale zu platzieren, um d
 - HTML
 - CSS
 - JavaScript
+# playable at  https://vwalln99.github.io/Tic-Tac-Toe/
